@@ -1,0 +1,7 @@
+C:\Users\gumus\source\repos\Sayinin Toplaminda Kullanilan Sayilar\Sayinin Toplaminda Kullanilan Sayilar\bin\Debug\Sayinin Toplaminda Kullanilan Sayilar.exe.config
+C:\Users\gumus\source\repos\Sayinin Toplaminda Kullanilan Sayilar\Sayinin Toplaminda Kullanilan Sayilar\bin\Debug\Sayinin Toplaminda Kullanilan Sayilar.exe
+C:\Users\gumus\source\repos\Sayinin Toplaminda Kullanilan Sayilar\Sayinin Toplaminda Kullanilan Sayilar\bin\Debug\Sayinin Toplaminda Kullanilan Sayilar.pdb
+C:\Users\gumus\source\repos\Sayinin Toplaminda Kullanilan Sayilar\Sayinin Toplaminda Kullanilan Sayilar\obj\Debug\Sayinin Toplaminda Kullanilan Sayilar.csprojAssemblyReference.cache
+C:\Users\gumus\source\repos\Sayinin Toplaminda Kullanilan Sayilar\Sayinin Toplaminda Kullanilan Sayilar\obj\Debug\Sayinin Toplaminda Kullanilan Sayilar.csproj.CoreCompileInputs.cache
+C:\Users\gumus\source\repos\Sayinin Toplaminda Kullanilan Sayilar\Sayinin Toplaminda Kullanilan Sayilar\obj\Debug\Sayinin Toplaminda Kullanilan Sayilar.exe
+C:\Users\gumus\source\repos\Sayinin Toplaminda Kullanilan Sayilar\Sayinin Toplaminda Kullanilan Sayilar\obj\Debug\Sayinin Toplaminda Kullanilan Sayilar.pdb
